@@ -1,16 +1,13 @@
-1. Apri la solution in Visual Studio.
+1. Open the solution in Visual Studio.
 
-2. Avvia prima TrainerApp:
+2. Start TrainerApp first:
    dotnet run
 
-3. Verrà creato:
+3. It will create:
    TrainerApp/MLModels/sentiment_model.zip
 
-4. Copia sentiment_model.zip dentro:
+4. Copy sentiment_model.zip into:
    WebAPI/MLModels/
 
-5. Avvia WebAPI:
+5. Start WebAPI:
    dotnet run
-
-6. Apri Swagger:
-   https://localhost:5001/swagger
