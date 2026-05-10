@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sentiment_model5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MLModels/sentiment_model.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

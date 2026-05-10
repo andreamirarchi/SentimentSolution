@@ -1,0 +1,15 @@
+# test for API HTTP
+
+@WebAPI_HostAddress = http://localhost:5000
+
+POST {{WebAPI_HostAddress}}/api/SentimentDetector/PredictSentiment
+Content-Type: application/json
+
+{
+  "Text": "Bad product and poor quality"
+}
+
+Send request | Debug
+https://localhost:5000/SenitmentDetector/Predict
+
+# Invoke-RestMethod -Uri "http://localhost:5000/api/SentimentDetector/PredictSentiment?text=Bad%20product%20and%20poor%20quality"

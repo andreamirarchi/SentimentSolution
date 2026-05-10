@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Shared/Shared.csproj" />
+  <Project Path="TrainerApp/TrainerApp.csproj" />
+  <Project Path="WebAPI/WebAPI.csproj" />
+</Solution>
