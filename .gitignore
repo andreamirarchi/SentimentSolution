@@ -1,0 +1,35 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# ML / data files (se non vuoi versionarli)
+*.csv
+*.zip
+*.rar
+*.7z
+data/
+
+# logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+*.iml
