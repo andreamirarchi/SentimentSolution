@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="sentiment_model4">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/TrainerApp/bin/Debug/net8.0/MLModels/sentiment_model.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
